@@ -1,0 +1,29 @@
+.adminpage {
+    padding: 0;
+    box-sizing: border-box;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.adminform {
+    height: 400px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    padding: 4px;
+    margin: 4px;
+    background-color: pink;
+    border-radius: 4px;
+}
+
+.adminform button {
+    padding: 4px;
+    margin: 10px;
+    border: none;
+    background-color: grey;
+    color: white;
+    border-radius: 2px;
+}
